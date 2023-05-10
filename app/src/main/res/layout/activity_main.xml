@@ -34,7 +34,7 @@
         <Button
             android:id="@+id/btn"
             android:layout_width="wrap_content"
-            android:text="Tasbex"
+            android:text="Tasbeh"
             android:layout_height="wrap_content"/>
 
     </LinearLayout>
